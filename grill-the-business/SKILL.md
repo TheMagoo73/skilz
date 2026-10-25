@@ -98,5 +98,10 @@ out of scope; they enter no decision -->
 ## When the map is done
 
 No tickets remain and no fog is left. Decisions-so-far is now the business
-definition. Hand off: `/to-vision` renders the vision statement, `/to-epics`
-cuts the epics that `/to-spec` then works from.
+definition, and it is closed: later work annotates this map's margins, never
+its decisions.
+
+Hand off: `/to-vision` renders the vision statement, then
+`/grill-the-solution` charts the solution map that drains **Parked: solutions**
+and settles the cross-cutting shape questions. `/to-epics` cuts epics from both
+maps once that one is done, and `/to-spec` works from the epics.

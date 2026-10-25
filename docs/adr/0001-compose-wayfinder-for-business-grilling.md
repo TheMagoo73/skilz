@@ -29,3 +29,5 @@ no-solution-design rule, and every mechanism has one implementation.
 - Wayfinder's `prototype` ticket type admits "UI/logic code", which conflicts
   with the no-solution-design rule. Business maps re-scope it to business
   artifacts: press release, pricing table, landing-page headline, journey sketch.
+  Solution maps restore it: there a `prototype` is a spike, throwaway code that
+  answers a shape question and is deleted once it has (ADR 0002).
