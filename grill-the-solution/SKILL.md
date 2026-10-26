@@ -130,5 +130,6 @@ rather than out of scope; they enter no decision -->
 ## When the map is done
 
 No tickets remain and no fog is left. Decisions-so-far is now the solution
-definition. Hand off: `/to-solution-definition` writes it out,
-`/to-epics` cuts the epics that `/to-spec` then works from.
+definition. Hand off: `/to-solution-definition` writes it out, and the epics
+that `/to-spec` works from are cut from this map. Neither of those skills exists
+yet: the epic cutter is being rebuilt from the ground up against this map.

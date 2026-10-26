@@ -26,7 +26,7 @@ wanted most at exactly the point where no solution design exists yet.
 
 Three things it therefore refuses:
 
-- **No epics.** Capabilities appear as business outcomes; how they are grouped and sequenced is a slicing decision, and slicing is not a business decision. `/to-epics` cuts the slices from the solution map. The two never need to agree on a count.
+- **No epics.** Capabilities appear as business outcomes; how they are grouped and sequenced is a slicing decision, and slicing is not a business decision. The slices are cut from the solution map, and the two never need to agree on a count.
 - **No parked solutions.** They are premature solution design, queued for `/grill-the-solution`. A reader of a signed document treats them as commitments, and they would reach the solution map already half-decided.
 - **No shape.** Parts, seams, operating model and ownership are the solution map's decisions. A PRD that carries them is waiting for a map it was designed not to need.
 
@@ -82,8 +82,7 @@ instead today.
 
 From **What It Lets People Do**. Each one states what someone can now do, for
 whom, and the value it creates, in business language. No grouping, no
-sequencing, no epic numbers — the cut belongs to `/to-epics` and is made against
-the solution map.
+sequencing, no epic numbers — the cut is made later, against the solution map.
 
 ## Where this stops
 

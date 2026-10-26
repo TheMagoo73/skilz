@@ -60,7 +60,7 @@ the questions that become tickets.
 | **Why Now** | What changed. Why this is possible or urgent now and was not three years ago |
 | **Proof** | Separates what is known from what is believed. Names the riskiest assumption and what would falsify it |
 | **The Boundary** | What this is not, and what is being consciously refused |
-| **What It Lets People Do** | The capabilities, in business language. Feeds `to-epics`, and the lens where solutions arrive most often |
+| **What It Lets People Do** | The capabilities, in business language. Feeds the PRD and the epic cut, and the lens where solutions arrive most often |
 | **Who Must Say Yes** | Budget holders, regulators, brand gatekeepers; the money and the time actually available |
 | **How We'd Know** | Observable outcomes, with numbers and a horizon, including how you would know you were wrong |
 
@@ -105,5 +105,6 @@ Hand off: `/to-vision` renders the vision statement and `/to-prd` renders the
 PRD — two readings of this map, independent of each other and of what follows,
 so either, both or neither can be rendered now. Then
 `/grill-the-solution` charts the solution map that drains **Parked: solutions**
-and settles the cross-cutting shape questions. `/to-epics` cuts epics from both
-maps once that one is done, and `/to-spec` works from the epics.
+and settles the cross-cutting shape questions. Epics are cut from that map once
+it is done, and `/to-spec` works from the epics — the skill that cuts them is
+being rebuilt and does not currently exist.

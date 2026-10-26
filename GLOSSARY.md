@@ -68,8 +68,8 @@ _Avoid_: backlog item, idea, parking lot
 
 **Renderer**:
 A skill that reads one or more completed maps and renders a single artifact
-from them. `to-vision`, `to-prd`, `to-solution-definition` and `to-epics` are
-renderers.
+from them. `to-vision` and `to-prd` are renderers; `to-solution-definition` and
+the epic cutter are planned ones.
 Renderers read maps, never each other's output: a rendered file is a leaf, so
 every artifact is one hop from a map and nothing goes stale behind a copy.
 _Avoid_: destination (wayfinder owns that word for what a map is finding its
