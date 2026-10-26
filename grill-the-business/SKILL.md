@@ -101,7 +101,9 @@ No tickets remain and no fog is left. Decisions-so-far is now the business
 definition, and it is closed: later work annotates this map's margins, never
 its decisions.
 
-Hand off: `/to-vision` renders the vision statement, then
+Hand off: `/to-vision` renders the vision statement and `/to-prd` renders the
+PRD — two readings of this map, independent of each other and of what follows,
+so either, both or neither can be rendered now. Then
 `/grill-the-solution` charts the solution map that drains **Parked: solutions**
 and settles the cross-cutting shape questions. `/to-epics` cuts epics from both
 maps once that one is done, and `/to-spec` works from the epics.

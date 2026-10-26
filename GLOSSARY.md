@@ -12,12 +12,20 @@ reimplementing it.
 The settled, non-technical account of what is to be built and why: customer,
 problem, value, outcomes, boundaries. Holds no solution design. Lives as the
 accumulated Decisions-so-far of a business map, not as a document of its own.
-_Avoid_: brief, PRD, requirements, spec
+The PRD is a rendering of this definition, not the definition itself.
+_Avoid_: brief, requirements, spec
 
 **Business Map**:
 A `wayfinder` map whose Destination is a Business Definition and whose Notes
 install the business lenses and the no-technology rule.
 _Avoid_: board, plan, backlog
+
+**PRD**:
+The complete rendering of a Business Definition as a document: every decision on
+the business map, in business language, organised for someone who must sign it
+off or plan against it. A vision persuades, a PRD commits — the same map read
+twice, differing in completeness and register rather than in content.
+_Avoid_: requirements document, brief, spec, business case
 
 **Solution Definition**:
 The settled account of what is built and how it holds together: the moving
@@ -60,7 +68,8 @@ _Avoid_: backlog item, idea, parking lot
 
 **Renderer**:
 A skill that reads one or more completed maps and renders a single artifact
-from them. `to-vision`, `to-solution-definition` and `to-epics` are renderers.
+from them. `to-vision`, `to-prd`, `to-solution-definition` and `to-epics` are
+renderers.
 Renderers read maps, never each other's output: a rendered file is a leaf, so
 every artifact is one hop from a map and nothing goes stale behind a copy.
 _Avoid_: destination (wayfinder owns that word for what a map is finding its
